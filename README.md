@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Java, JavaScript**
   <br>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-somya.vercel.app/](https://portfolio-somya.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://somya-portfolio-88xt.vercel.app/](https://somya-portfolio-88xt.vercel.app/)
 <br>
 - 📫 How to reach me **somyajain@gmail.com**
 <br>
