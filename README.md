@@ -8,15 +8,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s15jn" alt="s15jn" /></a> </p>
 <br>
 <br>
-- 🔭 I’m currently working on **AaganBreeze**
-<br>
 
-- 🌱 I’m currently learning **Java, JavaScript**
+- 🌱 I’m currently learning **Java, JavaScript, Dsa**
   <br>
 
 - 👨‍💻 All of my projects are available at [https://somya-portfolio-88xt.vercel.app/](https://somya-portfolio-88xt.vercel.app/)
 <br>
-- 📫 How to reach me **somyajain@gmail.com**
+- 📫 How to reach me **jsomya068@gmail.com**
 <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
